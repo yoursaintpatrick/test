@@ -1,0 +1,3 @@
+[submodule "prog"]
+	path = prog
+	url = https://github.com/yoursaintpatrick/prog
